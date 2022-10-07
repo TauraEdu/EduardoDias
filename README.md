@@ -1,3 +1,31 @@
+<h1 align="center">Hello 👋, I'm Eduardo :)</h1>
+<h3 align="center">Desenvolvedor Front-end aspirante a engenheiro de Software!</h3>
+
+<a "https://www.linkedin.com/in/desenvolvedor-eduardodias/" target="_blank"> <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>  <br /> 
+
+
+- 🔭 I currently study at [Trybe](https://www.betrybe.com/)
+
+- 🌱 I’m learning **JAVA** and I have experience with:
+
+  - JavaScript | TypeScript | CSS | HTML
+  - Linux (Ubuntu) | Windows
+  - React JS | Context API | Redux | Bootstrap
+  - NextJs | VUE
+  - JUnit | Mokito | TDD | Mocha | Chai | Sinon | Jest | RTL | Cypress
+  - Spring Boot | Spring WebFlux
+  - Scrum | Kanban
+  - Code Review | Clean Code | Conventional Commits
+  - Fetch API | Media Queries | Git | VSCode | Slack | Trello 
+  - Docker;
+  - SQL | MySQL Worbench | MongoDB
+  - Express (HTTP com Node.js) | Middlewares
+  - Arquitetura de Software (MSC) E (MVC) | Sequelize | Jpa | Jee
+  - API REST 
+
+
+- 📫 How to reach me: **sdias.eduardo@yahoo.com**
+
 <div align="center">
   <a href="https://github.com/TauraEdu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TauraEdu&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
