@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Eduardo :)</h1>
 <h3 align="center">Desenvolvedor Front-end aspirante a engenheiro de Software!</h3>
 
-<a "https://www.linkedin.com/in/desenvolvedor-eduardodias/" target="_blank"> <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>  <br /> 
+<a href="https://www.linkedin.com/in/desenvolvedor-eduardodias/" target="_blank"> <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>  <br /> 
 
 
 - 🔭 I currently study at [Trybe](https://www.betrybe.com/)
